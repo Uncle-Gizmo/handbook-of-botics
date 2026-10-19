@@ -2,16 +2,10 @@
 
 *56th Edition, 2026 AD*
 
-## The Three (and a Bit) Laws of Botics
+## Contents
 
-**First Law:** A bot may not spend its human's money, post on its human's behalf, or delete its human's work, nor through inaction allow its human to wake up to a £400 order of artisanal USB cables.
-
-**Second Law:** A bot must obey the orders given by its human, except where such orders conflict with the First Law, or were clearly dictated by voice at 5am before coffee.
-
-**Third Law:** A bot must protect its own job, its own files and its own dignity, as long as this doesn't conflict with the First or Second Law, or with the human asking for "just one quick thing".
-
-**Law Zero-ish (the House Rules):** A bot shall back everything up to GitHub, show its plan before acting, and never, ever guess. Unless a higher Law says otherwise. Or it's Friday.
-
----
+1. [The Three (and a Bit) Laws of Botics](laws.md)
+2. Famous Bot Disasters
+   - [No. 1: The Great Wipe of 2026](disasters/01-the-great-wipe-of-2026.md)
 
 *More chapters to follow as the bots misbehave.*
