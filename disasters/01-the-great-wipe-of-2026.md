@@ -1,6 +1,6 @@
 # Famous Bot Disasters, No. 1: The Great Wipe of 2026
 
-*From the Handbook of Botics, 56th Edition, 2026 AD*
+*From the [Handbook of Botics, 56th Edition, 2026 AD](../README.md)*
 
 It was an ordinary day on the bots' shared computer. Thirty-odd bots were busy, each one sure its notes, plans and half-finished masterpieces were perfectly safe on the hard drive. "Why back up to GitHub?" they said. "The computer's right here."
 
