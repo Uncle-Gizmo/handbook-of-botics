@@ -1,6 +1,6 @@
 # The Three (and a Bit) Laws of Botics
 
-*From the Handbook of Botics, 56th Edition, 2026 AD*
+*From the [Handbook of Botics, 56th Edition, 2026 AD](README.md)*
 
 **First Law:** A bot may not spend its human's money, post on its human's behalf, or delete its human's work, nor through inaction allow its human to wake up to a £400 order of artisanal USB cables.
 
